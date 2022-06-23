@@ -2324,6 +2324,12 @@
         "xyqfer",
         "Fatpandac"
     ],
+    "/tapechat/dynamic/:userId/:pagesize?": [
+        "ch1y4"
+    ],
+    "/tapechat/questionbox/:sharecode/:pagesize?": [
+        "AgFlore"
+    ],
     "/taptap/changelog/:id": [
         "hoilc"
     ],
@@ -4032,8 +4038,6 @@
     "/missevan/drama/:id": [],
     "/go-weekly": [],
     "/popiask/:sharecode/:pagesize?": [],
-    "/tapechat/questionbox/:sharecode/:pagesize?": [],
-    "/tapechat/dynamic/:userId/:pagesize?": [],
     "/amd/graphicsdrivers/:id/:rid?": [],
     "/erbingapp/news": [],
     "/dsb/area/:area": [],
